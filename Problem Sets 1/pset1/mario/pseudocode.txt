@@ -1,0 +1,6 @@
+Prompt user for height
+If height less than 1 or greater than 8, then go back to 1. 
+Iterate from 1 to height 
+    Spacing is set to height - row 
+    On iteration i, print i hashes.
+    Print a newline
