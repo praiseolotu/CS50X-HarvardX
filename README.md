@@ -1,2 +1,6 @@
 # CS50X-HarvardX
- A collection of solutions to problem sets and lab exercises. 
+Author: Olotu Praise Jah
+
+ A collection of solutions to problem sets and lab exercises from the CS50x course. 
+
+Enjoy. 
